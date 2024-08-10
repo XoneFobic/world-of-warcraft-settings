@@ -151,7 +151,7 @@ _At the time of writing I use a Razer Naga Pro, the software to bind keys is som
 | `V` | Taunt |
 | `Shift` + `V` | Infrequent Utility |
 | `Shift` + `Numpad /` | Alt MMO Mouse 10 - Healthstone |
-| `Shift` + `Ctrl` + `-` | Alt MMO Mouse 11 - Health Portion / **OH SHIT** Defensive |
+| `Shift` + `Ctrl` + `-` | Alt MMO Mouse 11 - Health Potion / **OH SHIT** Defensive |
 | `Shift` + `Ctrl` + `=` | Alt MMO Mouse 12 - Healing Utility |
 | `Numpad /` | MMO Mouse 10 - Movement Speed |
 | `Ctrl` + `-` | MMO Mouse 11 - **OH SHIT** Defensive / AoE stun |
