@@ -80,6 +80,15 @@ However, if you use healbot or something similar, you might not need to, as most
 
 _At the time of writing I use a Razer Naga Pro, the software to bind keys is somewhat limited in its settings. So they might appear a bit odd. Replace with what you have access to in your software._
 
+## Movement
+
+| Button | Description |
+| --- | --- |
+| `W` | Move Forwards |
+| `A` | Strafe Left |
+| `S` | Move Backwards (I still use this, as a tank, I sometimes still need to move slightly backwards)
+| `D` | Strafe Right |
+
 ## Row 1
 
 | Button | Description |
