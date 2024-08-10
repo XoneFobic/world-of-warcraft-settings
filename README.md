@@ -143,3 +143,36 @@ _At the time of writing I use a Razer Naga Pro, the software to bind keys is som
 | `Numpad /` | MMO Mouse 10 - Movement Speed |
 | `Ctrl` + `-` | MMO Mouse 11 - **OH SHIT** Defensive / AoE stun |
 | `Ctrl` + `=` | MMO Mouse 12 - Movement Jump/Roll/Retreat |
+
+# Macros (Not character / Class specific)
+
+## General purpose
+
+### Dismount
+Mostly used for Dragon riding dismounts, as it switches your action bar.  
+I put this on the last button on the bar that switches, which is MMO Button 9 on my mouse.
+```lua
+#show
+/dismount
+```
+
+## Combat
+Too lazy to switch out the buttons on the action bars when I switch trinkets
+
+### Trinket 1
+```lua
+#showtooltip
+/use 13
+```
+
+### Trinket 2
+```lua
+#showtooltip
+/use 14
+```
+
+### Extra Action Button
+This is the button that randomly pops up during fights
+```lua
+/click ExtraActionButton1
+```
