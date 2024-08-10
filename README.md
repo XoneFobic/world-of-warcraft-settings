@@ -81,8 +81,9 @@ However, if you use healbot or something similar, you might not need to, as most
 _At the time of writing I use a Razer Naga Pro, the software to bind keys is somewhat limited in its settings. So they might appear a bit odd. Replace with what you have access to in your software._
 
 ## Row 1
+
 | Button | Description |
-| ---| --- |
+| --- | --- |
 | `Shift` + `1` | Major Long Cooldown |
 | `Shift` + `2` | Major Long Cooldown |
 | `Shift` + `3` | Major Long Cooldown |
@@ -97,8 +98,9 @@ _At the time of writing I use a Razer Naga Pro, the software to bind keys is som
 | `Ctrl` + `3` | MMO Mouse 3 - AoE Rotation |
 
 ## Row 2
+
 | Button | Description |
-| ---| --- |
+| --- | --- |
 | `1` | Major Short Cooldown |
 | `2` | Major Short Cooldown |
 | `3` | Major Short Cooldown |
@@ -113,8 +115,9 @@ _At the time of writing I use a Razer Naga Pro, the software to bind keys is som
 | `Ctrl` + `6` | MMO Mouse 6 - Main rotation |
 
 ## Row 3
+
 | Button | Description |
-| ---| --- |
+| --- | --- |
 | `Q` | Infrequent Rotation |
 | `E` | Infrequent Rotation |
 | `R` | Dispell (Mouseover) |
@@ -129,8 +132,9 @@ _At the time of writing I use a Razer Naga Pro, the software to bind keys is som
 | `Ctrl` + `9` | MMO Mouse 9 - Distance Pull |
 
 ## Row 4
+
 | Button | Description |
-| ---| --- |
+| --- | --- |
 | `Shift` + `Q` | Killing move / Throw |
 | `Shift` + `E` | Infrequent Rotation |
 | `Shift` + `R` | Area Dispell (Cursor) |
