@@ -9,18 +9,23 @@ So it features 4 stacked bars, where most 'on demand' spells are keybound to the
 ![ElvUI Movers](../images/ElvUI_Movers.png)
 
 # Export
+
 ## Profile
+
 ```
 !E1!nN1w3Tjoq4Fn5nN9WnBhN3mo2n(CIVCmK2TVqQaKJ1garbrCsEO)23zKaCWXXxY2UN8qBaPzg9nFZiPzWE6EUEoHebXNKLJplwLrjc8P1SqXkVPMxy5j8COpLsZy0Kakox(k(6BOpsJ8S9CwYteoSxOEt118CwXcP9ftipPM33Z5Nf0CXaECAevqdNLe9mQLG(KyeplgwmNb3Uy(WfdwmCIs)XjG4(Wm2QLYUW3pIMJVwIklnnevR4j8meq0ecibUABPpiugnTqqemEI0bFN1TPxuAp7tepKxassiPOT1RP93Nva7CpnHMrIq7eXVNLetZZj3l9pW8XkQTmo8fACoorilpnI884K8uAGyCYs(RgDWksgjqqZQgV2mliaIFghcn24ARxoWWKGvKeHCfOQN777NrFegaaQpxi4XZjjkn8jbpeMXtxscPb8ivSjZBQ2FP12cCR6N8REcSHGNQmaqeKLpG2Hui4lOPewMNZ8B6)9HlqIGlwWJK(9pliraQNsILXOYx3aEBfngZFKQsR)M7cclCcj7byaBswFWva05ypZ1D2KfJ)Y1UTUD8Csgnr061dEUvldTl8Cgg9yF770nRuPfmWwk0sRLUMUNJRCleSitWL)akyAaEiv03UjwERWvW5cJwD6558LjLw3D28nihFXSD3wNBaCSDXYL5BKAlNSEKZ1VWeua8SBagEugWPBu6MHJAQJCalJEGgADqEDclHftsTlGeHKxXS7BfTADUPUUKuVD0DJ4bf5n4QdWbD00AzyH6)imNlNKloeIB3fiftlaXZ5RPzaoha7hjmyB27XJNBQbEPE3UaQ45qstsdH336GS)W6dm3KjGM91Ef(UgWKgvuHlj7EQq9)NcJ0UxpmUJXd4SerWQ6WXre)nnG)1RDfg6NNZomHAcXW2DmR3yS)0CZUvcAul4BLcZzPr81LPu7icTVmkdmfEcliJ7V1wVdT9UhYBFbY7BM(2A74KUET)2E)(lmD)irvQ27NHz1bWTE7kRAEKHBlddjLUO(MTdMJzcrO(QBNoOSwAvaY6eauDc0C4(gAZiGmL5TAlhg3nBcx85axzU8vheUlM1OJoUo2th6EKjfTbX)6SXdgo46(UhdC0HecqhxE6ayg6XCoHbMByA2Ct8PS9TMcuSEN9NCHh)7Y5rcw6PKM3T9gaM8WXS)2Q3fQZ(UMc3NVR9uVRhzAO3YSt36uIT4JMR5wjdgBY)6Em(MbCaM8o6fS7xjGkDojUh0f3SsZ2(QVTJY64Tby60vu)DDZ6wBKQVC1cVeXcpAsEQ2rM3AI1VeWtaHfZHs)KLj6tUxwntEqgjDmmloiulgutdfQpsKxxGklj095uzXr)trYdvYwKtTJyV8cjlCqeLKuKQkrMuKrKww6zYYKzX0rqQ)ScreK9d7oVU)vZ(gIPIeboJNZS81KOWnY2CKVpdmfv4n9CDv1yfjmXsKJr7lRouUs4AdhjHvRuxTOEzTI6LvkQlzdc2gXRlQCNITIsIGIP3NmLGr5OYDRvabU6Or7esztLhOj7uIwtqeHGeSYLdPz3oAKtfl(wdSHt30uXgLhTO)KHQLbtdiVz1fQ(ZW2wKgjflvw(uzcLQ2zxVPqE8vSLlzbfrqb9L6cf9dxpuIk4pMkYVmgw2qIrJWkEIhlPOi(x)ycnKveJUaworUs0ycCh7befGzalbjESjnXd0NBUC12yZqBeBFqyonBbFTudzxPImsFPlQQ4r251owV9BCHKAU4drn7NnoD)ChOhtbO5ebKEjOZGEk5rH81jQteY69jg2a80)daV9LJDSOBh(OcWD)da4FN8z7p547JDcZ)dbC1XQH42M3l2pxDtWjJ(paAERlT9jCALGQZhcsFoiuWj(9d(FxzRXLnlQk8bjKRPyjKWvPAn8UQpRf(8duAkAKfyFxQQNaty8j2nXWG1NB89Xot7ZAvjlFpPx2W0psxXcIOdFIj(pw8sUGO(otBYKvAJFiQtZdAFKCLkU9XsRs5mCMnT9DWOx1(p))CXT362Y6NfQgTr)8EAc0fSAlFWk1psIG47qJObcEwZwtWpQKSVJ2vnECHK0WoJaTItR(nio76lpBYLN58RFaGMLdg6zLx0g)GaGpSMNfMdYn57tHwfoR1FZX2Xa)qyZFAopNj)LnC6Bp7RdVd)kh3nEQZ4Runv4D5LPz8LSi6LxEfDjbAn4F)
 ```
 
 ## Private (Character Specific)
+
 ```
 !E1!L9ySUoimmu0)ONe6jXaJvQRDa6SRCc3cr4qIcUGkF9nb2AN815yNJmvr3PodpSuQyMncidPu3m7ruyf)qwMCZhpAe3(oN6pYdEoM5DzwewTeTJCITksLMnGj5Dl2YlSC(rrozh9ywBHpSI01tjxkmnee1f)2TocpOUE8KFj6HnLf5Hn4Jcuq3Q()V668Outtm5wZhWN)
 ```
 
 # Table
+
 ## Profile
+
 ```lua
 {
     ["actionbar"] = {
@@ -360,7 +365,8 @@ So it features 4 stacked bars, where most 'on demand' spells are keybound to the
 }::profile::Default
 ```
 
-## Private (Character Settings
+## Private (Character Settings)
+
 ```lua
 {
     ["bags"] = {
