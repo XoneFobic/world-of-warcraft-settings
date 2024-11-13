@@ -8,9 +8,11 @@
 | --- | --- |
 | [Advanced Interface Options](https://www.curseforge.com/wow/addons/advancedinterfaceoptions) | It says it on the label |
 | [Astral Keys](https://www.curseforge.com/wow/addons/astral-keys) | Helps communcation around setting up a mythic+ group |
-| [BetterBags](https://www.curseforge.com/wow/addons/better-bags) | Alternate bags addon |
+| [Baganator](https://www.curseforge.com/wow/addons/baganator) | Alternate bags addon |
 | [Deadly Boss Mods (DBM)](https://www.curseforge.com/wow/addons/deadly-boss-mods) / [BigWigs](https://www.curseforge.com/wow/addons/big-wigs) + [LittleWigs](https://www.curseforge.com/wow/addons/little-wigs) | Helps with timers during encounters in raids and dungeons |
+| [DeModal](https://www.curseforge.com/wow/addons/demodal) | Makes most world of warcraft frames movable |
 | [Details! Damage Meter](https://www.curseforge.com/wow/addons/details) | See how much 'better' you're doing than the other people in your group |
+| [Dialogue UI](https://www.curseforge.com/wow/addons/dialogueui) | Quest conversation replacement |
 | [ElvUI](https://tukui.org/elvui) | Full UI replacement |
 | [GTFO](https://www.curseforge.com/wow/addons/gtfo) | Makes sure you don't stand in things that the healer will get angry about |
 | [Hekili Priority Helper](https://www.curseforge.com/wow/addons/hekili) | Rotation helper - Doesn't do much for tanks, but it helps when you forgot what's next |
@@ -47,6 +49,7 @@
 
 | Name + Link | Description |
 | --- | --- |
+| [Quazii Profile](https://quazii.com/the-war-within-plater-nameplates-profile/) | |
 | [True minimal Plater profile](https://wago.io/Qau90si9E) | Plater profile based on Quazzi's profile |
 
 # Profiles
